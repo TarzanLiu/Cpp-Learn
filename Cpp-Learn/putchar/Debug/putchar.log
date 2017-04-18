@@ -1,3 +1,4 @@
 ﻿  putchar.c
-  putchar.vcxproj -> E:\_C\_Code\C++\Cpp-Learn\Cpp-Learn\Debug\putchar.exe
-  putchar.vcxproj -> E:\_C\_Code\C++\Cpp-Learn\Cpp-Learn\Debug\putchar.pdb (Partial PDB)
+  LINK : 没有找到 E:\_Code\Cpp-Learn\Cpp-Learn\Debug\putchar.exe 或上一个增量链接没有生成它；正在执行完全链接
+  putchar.vcxproj -> E:\_Code\Cpp-Learn\Cpp-Learn\Debug\putchar.exe
+  putchar.vcxproj -> E:\_Code\Cpp-Learn\Cpp-Learn\Debug\putchar.pdb (Partial PDB)

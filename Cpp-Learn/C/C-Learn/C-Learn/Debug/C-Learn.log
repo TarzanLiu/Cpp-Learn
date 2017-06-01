@@ -1,0 +1,6 @@
+﻿  sum_arr2.c
+e:\_code\cpp\cpp-learn\c\c-learn\c-learn\sum_arr2.c(11): warning C4013: “system”未定义；假设外部返回 int
+  sum_arr1.c
+  正在生成代码...
+  C-Learn.vcxproj -> E:\_Code\Cpp\Cpp-Learn\C\C-Learn\Debug\zhizhen.exe
+  C-Learn.vcxproj -> E:\_Code\Cpp\Cpp-Learn\C\C-Learn\Debug\zhizhen.pdb (Partial PDB)

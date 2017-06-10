@@ -113,7 +113,7 @@
     <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3.5.4.cpp" />
+    <ClCompile Include="4.1.1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,7 @@
-﻿  6.2.2.cpp
+﻿  源.c
+e:\_code\cpp\cpp-learn\cpp\cplus_primer\源.c(23): warning C4047: “函数”:“unsigned long *”与“unsigned long”的间接级别不同
+e:\_code\cpp\cpp-learn\cpp\cplus_primer\源.c(23): warning C4024: “CrcGen_STM32”: 形参和实参 1 的类型不同
+e:\_code\cpp\cpp-learn\cpp\cplus_primer\源.c(26): warning C4098: “main”:“void”函数返回值
+e:\_code\cpp\cpp-learn\cpp\cplus_primer\源.c(38): warning C4047: “初始化”:“unsigned long”与“unsigned long *”的间接级别不同
   Cplus_Primer.vcxproj -> E:\_Code\Cpp\Cpp-Learn\Cpp\x64\Debug\Cplus_Primer.exe
   Cplus_Primer.vcxproj -> E:\_Code\Cpp\Cpp-Learn\Cpp\x64\Debug\Cplus_Primer.pdb (Partial PDB)

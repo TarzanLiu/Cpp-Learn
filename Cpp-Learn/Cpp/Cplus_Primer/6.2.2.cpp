@@ -28,10 +28,15 @@ string::size_type find_char(const string &s, char c, string::size_type &occurs)
 
 int main()
 {
-	const string s("acjskifflsvvvsscvreg");
+	//const string s("acjskifflsvvvsscvreg");
+
+	string s;
+	char w;
+	cin >> s;
+	cin >> w;
 
 	string::size_type n;
-	cout << find_char(s, 'v', n)<<endl;
+	cout << find_char(s, w, n)<<endl;
 	cout << n << endl;
 
 	/*int i;

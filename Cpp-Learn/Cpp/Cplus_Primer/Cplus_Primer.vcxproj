@@ -113,7 +113,7 @@
     <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.c" />
+    <ClCompile Include="构造函数参数表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

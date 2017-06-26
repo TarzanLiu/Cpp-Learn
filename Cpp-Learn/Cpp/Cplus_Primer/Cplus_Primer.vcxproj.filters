@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="构造函数参数表.cpp">
+    <ClCompile Include="string类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

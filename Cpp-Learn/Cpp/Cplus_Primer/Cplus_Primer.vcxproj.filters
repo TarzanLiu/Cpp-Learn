@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="string类.cpp">
+    <ClCompile Include="回文数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

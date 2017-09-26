@@ -112,6 +112,9 @@
   <ItemGroup>
     <Text Include="_CRT_SECURE_NO_WARNINGS.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="golf.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

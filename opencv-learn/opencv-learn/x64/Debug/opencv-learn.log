@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+﻿  5.1.5.cpp
+=======
+<<<<<<< HEAD
+﻿  4.1.5.opencv输出.cpp
+=======
+﻿  3.1.9.cpp
+>>>>>>> 0e418a466533317807cd95ee33e0307279421843
+>>>>>>> 0d61a1e9d34f85efcfa47b13263024eb7b711ed0
+d:\opencv\opencv320\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv320\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv320\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\opencv320\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  opencv-learn.vcxproj -> E:\_Code\Opencv\opencv-learn\x64\Debug\opencv-learn.exe
+  opencv-learn.vcxproj -> E:\_Code\Opencv\opencv-learn\x64\Debug\opencv-learn.pdb (Partial PDB)

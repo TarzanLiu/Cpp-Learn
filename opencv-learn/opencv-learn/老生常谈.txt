@@ -1,0 +1,5 @@
+#include<opencv2/opencv.hpp>
+using namespace cv;
+
+
+"E:\\_Code\\_img\\1.jpg"
